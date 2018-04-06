@@ -1,0 +1,2 @@
+INSERT INTO burgers (burger_name, devoured)
+VALUES ('single cheeseburger', 0), ('double cheeseburger', 0), ('single bacon cheeseburger', 0), ('double bacon cheeseburger', 0, ('mushroom burger', 0), ('carolina burger', 0), ('bbq burger', 0);
